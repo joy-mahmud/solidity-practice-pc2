@@ -1,0 +1,6 @@
+.deps
+artifacts
+scripts
+tests
+.prettierrc.json
+.states
